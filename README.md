@@ -8,7 +8,7 @@
 This project is an end-to-end Machine Learning pipeline designed to predict the Remaining Useful Life (RUL) and State of Health (SoH) of Lithium-Ion batteries. By analyzing real-time internal resistance and temperature telemetry, the deep learning model predicts the remaining capacity (Amp-hours) of a battery, acting as an intelligent software fuse for Electric Vehicle (EV) motor controllers.
 
 ## 🚀 Live Demo
-**[Insert your Render URL here, e.g., https://ev-battery-ai.onrender.com]**
+**https://ev-battery-life-predictor.onrender.com**
 
 ## 🧠 Project Overview
 Lithium-ion batteries degrade over time due to thermal wear and chemical degradation. This project uses the **NASA Prognostics Center Battery Dataset** to train an Artificial Neural Network (ANN) that maps internal battery resistance (`Re` and `Rct`) to its physical degradation curve. 
